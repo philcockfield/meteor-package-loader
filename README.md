@@ -1,4 +1,9 @@
 # Meteor Package Loader
+
+**IMPORTANT - THIS HAS BEEN RENAMED IN NPM TO:** `meteor-package-paths`
+
+Manages file paths for Meteor packages.
+
 Provides [sprockets](https://github.com/sstephenson/sprockets) style loading of files for a Meteor package.
 
 
